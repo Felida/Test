@@ -17,16 +17,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
 
 # Thumbnails
 ._*
@@ -36,8 +26,6 @@ $RECYCLE.BIN/
 .Trashes
 
 # Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
